@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a7ea6a5-25d4-407c-ab8e-794be9b0ed56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Videos.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/fetchFromAPI.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Feed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Feed.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,12 +63,15 @@
       <updated>1665681649423</updated>
       <workItem from="1665681652079" duration="4541000" />
       <workItem from="1665688163180" duration="3091000" />
-      <workItem from="1665742044375" duration="7496000" />
+      <workItem from="1665742044375" duration="12300000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -85,5 +90,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1665688156665" />
+    <state x="793" y="222" key="RollbackChangesDialog" timestamp="1665755752566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="793" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1665755752566" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1665755997409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1665755997409" />
   </component>
 </project>

@@ -1,8 +1,17 @@
 import React, {useState, useEffect} from 'react';
 import {Box, Stack, Typography} from "@mui/material";
 import Sidebar from "./Sidebar";
+import Videos from "./Videos";
+
+import {fetchFromAPI} from "../utils/fetchFromAPI";
 
 const Feed = () => {
+    const [selectedCategory, setSelectedCategory] = useState('New');
+
+    useEffect(() => {
+        fetchFromAPI(`/search?part=snippet&q=${selectedCategory}`);
+    }, [selectedCategory])
+
     return (
         <Stack
             sx={{
@@ -22,7 +31,10 @@ const Feed = () => {
                     }
                 }}
             >
-                <Sidebar />
+                <Sidebar
+                    selectedCategory={selectedCategory}
+                    setSelectedCategory={setSelectedCategory}
+                />
 
                 <Typography
                     className="copyright" variant="body2"
@@ -32,6 +44,26 @@ const Feed = () => {
                 >
                     Copyright 2022 Freetime Media
                 </Typography>
+            </Box>
+
+            <Box
+                p={2}
+                sx={{
+                    overflow: 'auto', height: '90vh', flex: 2
+                }}
+            >
+                <Typography
+                    variant="h4"
+                    fontWeight="bold" mb={2}
+                    sx={{
+                        color: 'white',
+                    }}
+                >
+                    {selectedCategory}
+                    <span style={{color: '#F31503'}}> videos</span>
+                </Typography>
+
+                <Videos videos={[]} />
             </Box>
         </Stack>
     );
