@@ -21,9 +21,22 @@
   <component name="ChangeListManager">
     <list default="true" id="7a7ea6a5-25d4-407c-ab8e-794be9b0ed56" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ChannelCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChannelCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ChannelDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChannelDetail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Feed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Feed.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SearchBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SearchFeed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchFeed.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoDetail.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Videos.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Videos.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/constans.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/constans.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/fetchFromAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/fetchFromAPI.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +48,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="2G5by488GaKpCBWVzPbdJf2zqim" />
   <component name="ProjectViewState">
@@ -61,7 +77,10 @@
       <updated>1665681649423</updated>
       <workItem from="1665681652079" duration="4541000" />
       <workItem from="1665688163180" duration="3091000" />
-      <workItem from="1665742044375" duration="27822000" />
+      <workItem from="1665742044375" duration="30673000" />
+      <workItem from="1665780379932" duration="627000" />
+      <workItem from="1665781104644" duration="1767000" />
+      <workItem from="1665783216238" duration="231000" />
     </task>
     <servers />
   </component>
@@ -84,10 +103,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1665688156665">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1665781100608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1665688156665" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1665781100608" />
+    <state width="1877" height="564" key="GridCell.Tab.0.bottom" timestamp="1665779817222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="564" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1665779817222" />
+    <state width="1877" height="564" key="GridCell.Tab.0.center" timestamp="1665779817222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="564" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1665779817222" />
+    <state width="1877" height="564" key="GridCell.Tab.0.left" timestamp="1665779817221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="564" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1665779817221" />
+    <state width="1877" height="564" key="GridCell.Tab.0.right" timestamp="1665779817222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="564" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1665779817222" />
     <state x="793" y="222" key="RollbackChangesDialog" timestamp="1665755752566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
