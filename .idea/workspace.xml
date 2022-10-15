@@ -21,22 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7a7ea6a5-25d4-407c-ab8e-794be9b0ed56" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ChannelCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChannelCard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ChannelDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChannelDetail.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Feed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Feed.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchFeed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchFeed.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VideoCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/VideoDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoDetail.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Videos.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Videos.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/constans.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/constans.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/fetchFromAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/fetchFromAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +69,10 @@
       <workItem from="1665742044375" duration="30673000" />
       <workItem from="1665780379932" duration="627000" />
       <workItem from="1665781104644" duration="1767000" />
-      <workItem from="1665783216238" duration="231000" />
+      <workItem from="1665783216238" duration="551000" />
+      <workItem from="1665829957933" duration="904000" />
+      <workItem from="1665838948088" duration="1712000" />
+      <workItem from="1665840935365" duration="4087000" />
     </task>
     <servers />
   </component>
